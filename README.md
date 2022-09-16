@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![takuori's GitHub stats](https://github-readme-stats.vercel.app/api?username=takuori&theme=vue-yeblu&show_icons=true)](https://github.com/takuori/github-readme-stats)
-![takuori's GitHub stats](https://github-readme-stats.vercel.app/api?username=takuori&hide=contribs,prs)
+[![takuori's GitHub stats](https://github-readme-stats.vercel.app/api?username=takuori&count_private=true)](https://github.com/takuori/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takuori&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
 
