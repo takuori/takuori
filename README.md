@@ -1,4 +1,4 @@
-### Hi there 👋
+### My GitHub Introduction
 
 <a href="https://github.com/takuori">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=takuori&count_private=true&show_icons=true&theme=dracula" />
@@ -6,16 +6,9 @@
 <a href="https://github.com/takuori">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takuori&layout=compact&theme=dracula" />
 </a>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-<h3 align="left" margin-top="80px">
-  Languages and Tools:
-</h3>
+
+### My Skills 
+
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"      height="40"/> 
@@ -48,6 +41,13 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
 </p>
+
+### Self-Introduction
+・I started learning programming in May.<br>
+・School at DWC. The curriculum mainly focuses on learning Ruby and Ruby on Rails<br>
+・Currently looking for a new job<br>
+・Self-studying Java<br>
+* My Skills introduces what you have learned. note that.
 
 <!--
 **takuori/takuori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
