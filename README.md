@@ -47,7 +47,8 @@
 ・School at DWC. The curriculum mainly focuses on learning Ruby and Ruby on Rails<br>
 ・Currently looking for a new job<br>
 ・Self-studying Java<br>
-・Currently studying for the Basic Information Engineer Examination
+・Currently studying for the Basic Information Engineer Examination<br>
+* Basic Information Technology Engineer Examination, Collection of mock questions1(First-try) 60/100 points
 * My Skills introduces what you have learned. note that.
 
 <!--
@@ -64,3 +65,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
