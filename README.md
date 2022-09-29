@@ -47,6 +47,7 @@
 ・School at DWC. The curriculum mainly focuses on learning Ruby and Ruby on Rails<br>
 ・Currently looking for a new job<br>
 ・Self-studying Java<br>
+・Currently studying for the Basic Information Engineer Examination
 * My Skills introduces what you have learned. note that.
 
 <!--
