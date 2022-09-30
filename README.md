@@ -48,7 +48,7 @@
 ・Currently looking for a new job<br>
 ・Self-studying Java<br>
 ・Currently studying for the Basic Information Engineer Examination<br>
-* Basic Information Technology Engineer Examination, Collection of mock questions1(First-try) 60/100 points
+* Basic Information Technology Engineer Examination, Collection of mock questions1(First-try) 60/100 points<br>
 * My Skills introduces what you have learned. note that.
 
 <!--
