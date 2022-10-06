@@ -53,6 +53,7 @@
 * Basic Information Technology Engineer Examination, 2019 first-harf(morning exam) past question(First-try) 35/100 points<br>
 * Basic Information Technology Engineer Examination, 2018 first-harf(morning exam) past question(First-try) 30/100 points<br>
 * Basic Information Technology Engineer Examination, Collection of mock questions1((afternoon exam)First-try) 45/100 points<br>
+* Basic Information Technology Engineer Examination, Collection of mock questions2((afternoon exam)First-try) ??/100 points<br>
 * My Skills introduces what you have learned. note that.
 
 <!--
