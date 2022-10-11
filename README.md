@@ -47,7 +47,7 @@
 ・School at DWC. The curriculum mainly focuses on learning Ruby and Ruby on Rails<br>
 ・Currently looking for a new job<br>
 ・Self-studying Java<br>
-・Self-studying Basic Information Technology engineer Examination(algorithm)<br>
+・Self-studying Basic Information Technology Engineer Examination(algorithm)<br>
 ・Currently studying for the Basic Information Engineer Examination<br>
 * Basic Information Technology Engineer Examination, Collection of mock questions1((morning exam)First-try) 60/100 points<br>
 * Basic Information Technology Engineer Examination, Collection of mock questions2((morning exam)First-try) 51/100 points<br>
